@@ -10,3 +10,6 @@
 [submodule "Healing-blog"]
 	path = Healing-blog
 	url = https://github.com/Itsbeenalongday/Healing-blog.git
+[submodule "Ruby-on-Rails-reference"]
+	path = Ruby-on-Rails-reference
+	url = https://github.com/Itsbeenalongday/Ruby-on-Rails-reference.git
