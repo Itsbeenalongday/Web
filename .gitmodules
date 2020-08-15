@@ -1,3 +1,6 @@
 [submodule "Making-website"]
 	path = Making-website
 	url = https://github.com/Itsbeenalongday/Making-website.git
+[submodule "Frontend-javascript"]
+	path = Frontend-javascript
+	url = https://github.com/Itsbeenalongday/Frontend-javascript.git
