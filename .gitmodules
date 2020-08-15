@@ -13,3 +13,6 @@
 [submodule "Ruby-on-Rails-reference"]
 	path = Ruby-on-Rails-reference
 	url = https://github.com/Itsbeenalongday/Ruby-on-Rails-reference.git
+[submodule "Spring-project"]
+	path = Spring-project
+	url = https://github.com/Itsbeenalongday/freelec-springboot2-webservice.git
