@@ -7,3 +7,6 @@
 [submodule "First-blog"]
 	path = First-blog
 	url = https://github.com/Itsbeenalongday/First-blog.git
+[submodule "Healing-blog"]
+	path = Healing-blog
+	url = https://github.com/Itsbeenalongday/Healing-blog.git
