@@ -4,3 +4,6 @@
 [submodule "Frontend-javascript"]
 	path = Frontend-javascript
 	url = https://github.com/Itsbeenalongday/Frontend-javascript.git
+[submodule "First-blog"]
+	path = First-blog
+	url = https://github.com/Itsbeenalongday/First-blog.git
