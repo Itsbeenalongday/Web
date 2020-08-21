@@ -19,3 +19,6 @@
 [submodule "Internet"]
 	path = Internet
 	url = https://github.com/Itsbeenalongday/Internet.git
+[submodule "Blog_project"]
+	path = Blog_project
+	url = https://github.com/Itsbeenalongday/Blog_project.git
