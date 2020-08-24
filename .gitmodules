@@ -22,3 +22,6 @@
 [submodule "Blog_project"]
 	path = Blog_project
 	url = https://github.com/Itsbeenalongday/Blog_project.git
+[submodule "Rails_project"]
+	path = Rails_project
+	url = https://github.com/Itsbeenalongday/Rails_project.git
