@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "############################################"
 echo "#                                          #"
 echo "#                                          #"
@@ -10,18 +11,18 @@ echo "#                                          #"
 echo "#                                          #"
 echo "#                                          #"
 echo "############################################"
-echo -e "\n"
+echo "\n"
 echo "*** start pull ***"
-echo -e "\n"
+echo "\n"
 git pull
-echo -e "\n"
+echo "\n"
 echo -n "please enter a commit message >> "
 read line
-echo -e "\n"
+echo "\n"
 git add .
-echo -e "\n"
+echo "\n"
 git commit -m "$line"
-echo -e "\n"
+echo "\n"
 git push
-echo -e "\n"
+echo "\n"
 echo "*** Pushing ended successfully ***"
