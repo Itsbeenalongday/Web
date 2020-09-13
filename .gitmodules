@@ -25,3 +25,6 @@
 [submodule "Spring-Project"]
 	path = Spring-Project
 	url = https://github.com/Itsbeenalongday/Spring-Project.git
+[submodule "Agileboard-backend"]
+	path = Agileboard-backend
+	url = https://github.com/9oominsoo/Agileboard-backend.git
