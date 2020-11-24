@@ -34,3 +34,6 @@
 [submodule "Cafe-Takeout-Reservation"]
 	path = Cafe-Takeout-Reservation
 	url = https://github.com/Itsbeenalongday/Cafe-Takeout-Reservation.git
+[submodule "API-TEST"]
+	path = API-TEST
+	url = https://github.com/Itsbeenalongday/API-TEST.git
