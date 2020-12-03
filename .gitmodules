@@ -28,12 +28,12 @@
 [submodule "Agileboard-backend"]
 	path = Agileboard-backend
 	url = https://github.com/9oominsoo/Agileboard-backend.git
-[submodule "agileboard"]
-	path = agileboard
-	url = https://github.com/9oominsoo/agileboard.git
-[submodule "Cafe-Takeout-Reservation"]
-	path = Cafe-Takeout-Reservation
-	url = https://github.com/Itsbeenalongday/Cafe-Takeout-Reservation.git
 [submodule "API-TEST"]
 	path = API-TEST
 	url = https://github.com/Itsbeenalongday/API-TEST.git
+[submodule "agileboard"]
+	path = agileboard
+	url = https://github.com/Itsbeenalongday/agileboard.git
+[submodule "Cafe-Takeout-Reservation"]
+	path = Cafe-Takeout-Reservation
+	url = https://github.com/Itsbeenalongday/Cafe-Takeout-Reservation.git
