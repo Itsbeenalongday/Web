@@ -37,3 +37,6 @@
 [submodule "Cafe-Takeout-Reservation"]
 	path = Cafe-Takeout-Reservation
 	url = https://github.com/Itsbeenalongday/Cafe-Takeout-Reservation.git
+[submodule "Market"]
+	path = Market
+	url = https://github.com/Itsbeenalongday/Market.git
